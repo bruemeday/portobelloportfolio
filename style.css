@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{font-family: 'Klee One', cursive;}
+.headline{
+color:#51c96d;
+background:#c42399;
+margin: 30px;
+padding: 30px;
+font-size:50px;
+}
+.bio{
+color:#2c429c;
+background:#fad7f6;
+margin:10px;
+padding:10px;
+}
+.imageswikis{
+color:#1ad3e8;
+background:#c9fcc0;
+margin:20px;
+padding:0px;
+}
+#pam-egg {
+  height: auto;
+  width: 1000px;
+}
